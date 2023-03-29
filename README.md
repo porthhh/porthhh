@@ -60,6 +60,8 @@
 
 <p>
 <h3>Tryhackme Profile:</h3>
-<script src="https://tryhackme.com/badge/1167156"></script>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Backspace05.png)](https://tryhackme.com/p/Backspace05)
+<br>
+<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Backspace05.png" alt="TryHackMe">
 </p>
