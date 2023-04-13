@@ -1,10 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Parth Tank</h1>
-
-<h1 align="center"># [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Parth;A.K.A.+Porthh)](https://git.io/typing-svg)
-</h1>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Parth;A.K.A.+Porthh)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 
