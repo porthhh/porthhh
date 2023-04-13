@@ -1,8 +1,11 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Parth;A.K.A.+Porthh)](https://git.io/typing-svg)
 
 
 
 <h1 align="center">Hi 👋, I'm Parth Tank</h1>
+
+<h1 align="center"># [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Parth;A.K.A.+Porthh)](https://git.io/typing-svg)
+</h1>
+
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 
 <img align="right" width="400" alt="Cyber Security" src="https://kepsure.com/wp-content/uploads/2022/05/alarm-gif.gif"
