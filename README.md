@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **Intro to Blue Teaming**
 
-- 📝 I regularly write articles on [https://twitter.com/hey_parthhh](https://twitter.com/hey_parthhh)
+- 📝 I regularly write threads here- [https://twitter.com/hey_parthhh](https://twitter.com/hey_parthhh)
 
 - 💬 Ask me about **Linux, Nmap, C++**
 
