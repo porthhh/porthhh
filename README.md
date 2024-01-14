@@ -10,8 +10,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=porthhh&label=Profile%20views&color=0e75b6&style=flat"
-        alt="porthhh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=porthhh&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hey_parthhh" target="blank"><img
             src="https://img.shields.io/twitter/follow/hey_parthhh?logo=twitter&style=for-the-badge"
@@ -65,5 +64,4 @@
 <p>
 <h3>Tryhackme Profile:</h3> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Backspace05.png" alt="TryHackMe">
-    <img src="https://tryhackme.com/badge/1167156">
 </p>
