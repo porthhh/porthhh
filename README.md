@@ -1,7 +1,7 @@
 
 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Parth;A.K.A.+Porthh)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Parth)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 
