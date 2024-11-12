@@ -66,3 +66,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Backspace05.png" alt="TryHackMe">
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1167156" style='border:none;'></iframe>
 </p>
+
+<iframe src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/121387045" style='border:none;'></iframe>
