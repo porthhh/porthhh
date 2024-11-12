@@ -68,10 +68,9 @@
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/121387045" alt="eJPT">
 
-<iframe
+<img
   src="https://certs.ine.com/embed/51a50a72-f71e-4626-9082-b8382f68c522"
   width="800"
   height="600"
   frameborder="0"
   allowfullscreen>
-</iframe>
