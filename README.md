@@ -64,7 +64,14 @@
 <p>
 <h3>Tryhackme Profile:</h3> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Backspace05.png" alt="TryHackMe">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1167156" style='border:none;'></iframe>
 </p>
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/121387045" alt="eJPT">
+
+<iframe
+  src="https://certs.ine.com/embed/51a50a72-f71e-4626-9082-b8382f68c522"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
