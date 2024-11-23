@@ -3,7 +3,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Parth)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate Ethical Hacker from India</h3>
+<h3 align="center">A passionate Ethical Hacker</h3>
 
 
 <img align="right" width="300" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/121387045" alt="eJPT">
