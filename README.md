@@ -5,8 +5,8 @@
 
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 
-<img align="right" width="400" alt="Cyber Security" src="https://kepsure.com/wp-content/uploads/2022/05/alarm-gif.gif"
-    alt="">
+
+<img align="right" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/121387045" alt="eJPT">
 
 
 
