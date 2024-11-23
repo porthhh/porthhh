@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Ethical Hacker from India</h3>
 
 
-<img align="right" width="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/121387045" alt="eJPT">
+<img align="right" width="300" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/121387045" alt="eJPT">
 
 
 
@@ -65,5 +65,3 @@
 <h3>Tryhackme Profile:</h3> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Backspace05.png" alt="TryHackMe">
 </p>
-
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/121387045" alt="eJPT">
