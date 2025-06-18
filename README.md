@@ -22,8 +22,6 @@
 
 - 📝 I regularly write threads here- [https://twitter.com/hey_parthhh](https://twitter.com/hey_parthhh)
 
-- 💬 Ask me about **Linux, Nmap, C++**
-
 - 📫 How to reach me **parthtank.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
