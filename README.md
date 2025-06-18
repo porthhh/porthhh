@@ -16,7 +16,7 @@
             src="https://img.shields.io/twitter/follow/hey_parthhh?logo=twitter&style=for-the-badge"
             alt="hey_parthhh" /></a> </p>
 
-- 🌱 I’m currently learning **Metasploit Framework**
+- 🌱 I’m currently learning **IAM & BLue Teaming...**
 
 - 🤝 I’m looking for help with **Intro to Blue Teaming**
 
