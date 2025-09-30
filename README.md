@@ -61,5 +61,6 @@
 
 <p>
 <h3>Tryhackme Profile:</h3> 
-<img src="https://tryhackme-badges.s3.amazonaws.com/porthh.png" alt="Tryhackme" />
+**<img src="https://tryhackme-badges.s3.amazonaws.com/parthh.png" alt="Your Image Badge" />
+**
 </p>
