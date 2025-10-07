@@ -16,13 +16,11 @@
             src="https://img.shields.io/twitter/follow/hey_parthhh?logo=twitter&style=for-the-badge"
             alt="hey_parthhh" /></a> </p>
 
-- 🌱 I’m currently learning **IAM & BLue Teaming...**
-
-- 🤝 I’m looking for help with **Intro to Blue Teaming**
+- 🌱 I’m currently learning **IAM(Sailpoint Mainly) **
 
 - 📝 I regularly write threads here- [https://twitter.com/hey_parthhh](https://twitter.com/hey_parthhh)
 
-- 📫 How to reach me **parthtank.dev@gmail.com**
+- 📫 How to reach me **X.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,9 +30,6 @@
     <a href="https://linkedin.com/in/parth-tank" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="parth-tank" height="30" width="40" /></a>
-    <a href="https://instagram.com/__parth_tank__" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="__parth_tank__" height="30" width="40" /></a>
     <a href="https://hashnode.com/@backspace" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
             alt="@backspace" height="30" width="40" /></a>
